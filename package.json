@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "yes",
   "main": "app.js",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  },
   "devDependencies": {
     "jest": "^26.6.3"
   },
